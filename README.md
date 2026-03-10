@@ -5,6 +5,8 @@ This project creates a **fake Wi-Fi portal (captive portal)** that demonstrates 
 
 ⚠️ **Purpose:** Educational demonstration for cybersecurity awareness.
 
+DEMO VIEDO : https://youtube.com/shorts/MeoPR8zMElo?feature=share
+
 When a user connects to the ESP32 Wi-Fi network:
 
 1. A **hacker-style terminal screen** appears.
