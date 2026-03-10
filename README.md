@@ -39,6 +39,7 @@ Password: (None)
 > Checking Firewall Integrity...
 > Initializing Captive Portal...
 ```
+(https://github.com/user-attachments/assets/1d47b4b3-3a1c-4f57-9d33-bede059c07c9)
 
 ---
 
