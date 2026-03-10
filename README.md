@@ -52,6 +52,7 @@ User Name
 User Email
 Authorize Access
 ```
+![WhatsApp Image 2026-03-10 at 11 43 58 AM (1)](https://github.com/user-attachments/assets/64e1bcd8-3704-4e17-a0bf-84c2d055b8f5)
 
 ---
 
@@ -64,6 +65,9 @@ Email: rahul@gmail.com
 
 Cybersecurity Awareness Demo
 ```
+![WhatsApp Image 2026-03-10 at 11 43 59 AM (1)](https://github.com/user-attachments/assets/5246c785-c87d-4fcd-9324-ff72bf2109cb)
+![WhatsApp Image 2026-03-10 at 11 44 00 AM](https://github.com/user-attachments/assets/344ca277-ee2c-4973-a6b9-cbfdba715ed9)
+
 
 ---
 
