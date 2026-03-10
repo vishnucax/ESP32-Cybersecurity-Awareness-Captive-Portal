@@ -263,7 +263,7 @@ Always follow ethical and legal guidelines when working with network security.
 Portfolio:
 
 ```
-https://vishnucax.github.io/future-predictor
+https://vishnucax.github.io/
 ```
 
 ---
