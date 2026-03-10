@@ -39,7 +39,8 @@ Password: (None)
 > Checking Firewall Integrity...
 > Initializing Captive Portal...
 ```
-(https://github.com/user-attachments/assets/1d47b4b3-3a1c-4f57-9d33-bede059c07c9)
+![WhatsApp Image 2026-03-10 at 11 43 58 AM](https://github.com/user-attachments/assets/df057d18-f650-4f03-8a9f-9ab01ca6b943)
+
 
 ---
 
